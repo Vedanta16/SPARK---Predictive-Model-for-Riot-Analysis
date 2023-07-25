@@ -1,1 +1,0 @@
-# SPARK---Predictive-Model-for-Riot-Analysis
